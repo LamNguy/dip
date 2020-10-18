@@ -1,2 +1,2 @@
-# dip
-15 filter image 
+### Middle Term Xử lí ảnh.
+Tạo 15 filter  
